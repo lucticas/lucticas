@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas Ferreira</h1>
-<h3 align="center">A software engineer specialist building my carrer</h3>
+<h3 align="center">A software engineer specialist aiming to build a career as software engineer.</h3>
 
 - 🔭 I’m currently working on [puppeteer automation](https://github.com/puppeteer/puppeteer)
 
