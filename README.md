@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **lucticas@gmail.com**
 
-- ⚡ Fun fact **Hot water will turn into ice faster than cold water.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
