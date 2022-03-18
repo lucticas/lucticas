@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas Ferreira</h1>
 <h3 align="center">A software engineer specialist aiming to build a career as software engineer.</h3>
 
-- 🔭 I’m currently working on [puppeteer automation](https://github.com/puppeteer/puppeteer)
+- 🔭 I’m currently working on [NTE/Diamantina](https://srediamantina.educacao.mg.gov.br/index.php/servicos/nucleo-de-tecnologia-educacional)
 
 - 🌱 I’m currently learning **react-native, python for BI and DW.**
 
