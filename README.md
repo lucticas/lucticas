@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas Ferreira</h1>
-<h3 align="center">A software engineer specialist aiming to build a career as software engineer.</h3>
+<h3 align="center">A software engineer specialist aiming to build a career.</h3>
 
 - 🔭 I’m currently working on [NTE/Diamantina](https://srediamantina.educacao.mg.gov.br/index.php/servicos/nucleo-de-tecnologia-educacional)
 
